@@ -35,9 +35,11 @@ This project demonstrates the power of data analysis in sports management. By le
 
 ![image](https://github.com/Basharul36/T20_Team_Best_11_2023_dataset/assets/37185165/7605bc2c-d39e-4f87-8966-cc9da3d6034d)
 
-![image](https://github.com/Basharul36/T20_Team_Best_11_2023_dataset/assets/37185165/4dcc8329-c943-46e6-8be4-741d86a0649d)
+![image](https://github.com/Basharul36/T20_Team_Best_11_2023_dataset/assets/37185165/bb6a6f6f-284a-455b-b9f5-2417f5ce7dd4)
 
-![image](https://github.com/Basharul36/T20_Team_Best_11_2023_dataset/assets/37185165/9bec037e-360a-4830-ac62-3def7bfb84b1)
+![image](https://github.com/Basharul36/T20_Team_Best_11_2023_dataset/assets/37185165/12d2c51e-9bec-4033-a06c-9173a13b59f3)
+
+
 
 
 
