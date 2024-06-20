@@ -1,0 +1,3991 @@
+{
+	"matchSummary": [
+		{
+			"team1": "U.A.E.",
+			"team2": "Afghanistan",
+			"winner": "U.A.E.",
+			"margin": "11 runs",
+			"ground": "Sharjah",
+			"matchDate": "Dec 31, 2023",
+			"scorecard": "T20I # 2426"
+		},
+		{
+			"team1": "New Zealand",
+			"team2": "Bangladesh",
+			"winner": "New Zealand",
+			"margin": "17 runs",
+			"ground": "Mount Maunganui",
+			"matchDate": "Dec 31, 2023",
+			"scorecard": "T20I # 2425"
+		},
+		{
+			"team1": "U.A.E.",
+			"team2": "Afghanistan",
+			"winner": "Afghanistan",
+			"margin": "72 runs",
+			"ground": "Sharjah",
+			"matchDate": "Dec 29, 2023",
+			"scorecard": "T20I # 2424"
+		},
+		{
+			"team1": "New Zealand",
+			"team2": "Bangladesh",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Mount Maunganui",
+			"matchDate": "Dec 29, 2023",
+			"scorecard": "T20I # 2423"
+		},
+		{
+			"team1": "New Zealand",
+			"team2": "Bangladesh",
+			"winner": "Bangladesh",
+			"margin": "5 wickets",
+			"ground": "Napier",
+			"matchDate": "Dec 27, 2023",
+			"scorecard": "T20I # 2422"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Philippines",
+			"winner": "Philippines",
+			"margin": "7 wickets",
+			"ground": "Bali",
+			"matchDate": "Dec 26, 2023",
+			"scorecard": "T20I # 2421"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Philippines",
+			"winner": "tied",
+			"margin": "-",
+			"ground": "Bali",
+			"matchDate": "Dec 24, 2023",
+			"scorecard": "T20I # 2420"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Philippines",
+			"winner": "Philippines",
+			"margin": "8 wickets",
+			"ground": "Bali",
+			"matchDate": "Dec 24, 2023",
+			"scorecard": "T20I # 2419"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Philippines",
+			"winner": "Indonesia",
+			"margin": "20 runs",
+			"ground": "Bali",
+			"matchDate": "Dec 23, 2023",
+			"scorecard": "T20I # 2418"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Philippines",
+			"winner": "Indonesia",
+			"margin": "10 wickets",
+			"ground": "Bali",
+			"matchDate": "Dec 23, 2023",
+			"scorecard": "T20I # 2417"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Philippines",
+			"winner": "Philippines",
+			"margin": "2 runs",
+			"ground": "Bali",
+			"matchDate": "Dec 22, 2023",
+			"scorecard": "T20I # 2416"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "England",
+			"winner": "West Indies",
+			"margin": "4 wickets",
+			"ground": "Tarouba",
+			"matchDate": "Dec 21, 2023",
+			"scorecard": "T20I # 2415"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "England",
+			"winner": "England",
+			"margin": "75 runs",
+			"ground": "Tarouba",
+			"matchDate": "Dec 19, 2023",
+			"scorecard": "T20I # 2414"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "91 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 19, 2023",
+			"scorecard": "T20I # 2413"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Malawi",
+			"winner": "Botswana",
+			"margin": "3 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 19, 2023",
+			"scorecard": "T20I # 2412"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Malawi",
+			"winner": "Kenya",
+			"margin": "4 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 18, 2023",
+			"scorecard": "T20I # 2411"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "10 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 18, 2023",
+			"scorecard": "T20I # 2410"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Sierra Leone",
+			"winner": "Ghana",
+			"margin": "2 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 17, 2023",
+			"scorecard": "T20I # 2409"
+		},
+		{
+			"team1": "Mozambique",
+			"team2": "Rwanda",
+			"winner": "Mozambique",
+			"margin": "5 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 17, 2023",
+			"scorecard": "T20I # 2408"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "England",
+			"winner": "England",
+			"margin": "7 wickets",
+			"ground": "St George's",
+			"matchDate": "Dec 16, 2023",
+			"scorecard": "T20I # 2407"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Kenya",
+			"winner": "Kenya",
+			"margin": "40 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 16, 2023",
+			"scorecard": "T20I # 2406"
+		},
+		{
+			"team1": "Malawi",
+			"team2": "Rwanda",
+			"winner": "Malawi",
+			"margin": "46 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 16, 2023",
+			"scorecard": "T20I # 2405"
+		},
+		{
+			"team1": "Mozambique",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "51 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 15, 2023",
+			"scorecard": "T20I # 2404"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Sierra Leone",
+			"winner": "Sierra Leone",
+			"margin": "2 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 15, 2023",
+			"scorecard": "T20I # 2403"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "England",
+			"winner": "West Indies",
+			"margin": "10 runs",
+			"ground": "St George's",
+			"matchDate": "Dec 14, 2023",
+			"scorecard": "T20I # 2402"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "India",
+			"winner": "India",
+			"margin": "106 runs",
+			"ground": "Johannesburg",
+			"matchDate": "Dec 14, 2023",
+			"scorecard": "T20I # 2401"
+		},
+		{
+			"team1": "Malawi",
+			"team2": "Mozambique",
+			"winner": "Malawi",
+			"margin": "6 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 14, 2023",
+			"scorecard": "T20I # 2400"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Kenya",
+			"winner": "Kenya",
+			"margin": "8 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 13, 2023",
+			"scorecard": "T20I # 2399"
+		},
+		{
+			"team1": "Malawi",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "7 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 13, 2023",
+			"scorecard": "T20I # 2398"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "England",
+			"winner": "West Indies",
+			"margin": "4 wickets",
+			"ground": "Bridgetown",
+			"matchDate": "Dec 12, 2023",
+			"scorecard": "T20I # 2397"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "India",
+			"winner": "South Africa",
+			"margin": "5 wickets",
+			"ground": "Gqeberha",
+			"matchDate": "Dec 12, 2023",
+			"scorecard": "T20I # 2396"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Sierra Leone",
+			"winner": "Kenya",
+			"margin": "8 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 12, 2023",
+			"scorecard": "T20I # 2395"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Ghana",
+			"winner": "Botswana",
+			"margin": "38 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 11, 2023",
+			"scorecard": "T20I # 2394"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Rwanda",
+			"margin": "2 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 11, 2023",
+			"scorecard": "T20I # 2393"
+		},
+		{
+			"team1": "Cameroon",
+			"team2": "Sierra Leone",
+			"winner": "Sierra Leone",
+			"margin": "9 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 10, 2023",
+			"scorecard": "T20I # 2392"
+		},
+		{
+			"team1": "Zimbabwe",
+			"team2": "Ireland",
+			"winner": "Ireland",
+			"margin": "6 wickets",
+			"ground": "Harare",
+			"matchDate": "Dec 10, 2023",
+			"scorecard": "T20I # 2391"
+		},
+		{
+			"team1": "Gambia",
+			"team2": "Ghana",
+			"winner": "Ghana",
+			"margin": "98 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 10, 2023",
+			"scorecard": "T20I # 2390"
+		},
+		{
+			"team1": "Mali",
+			"team2": "Sierra Leone",
+			"winner": "Sierra Leone",
+			"margin": "8 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 9, 2023",
+			"scorecard": "T20I # 2389"
+		},
+		{
+			"team1": "Zimbabwe",
+			"team2": "Ireland",
+			"winner": "Ireland",
+			"margin": "4 wickets",
+			"ground": "Harare",
+			"matchDate": "Dec 9, 2023",
+			"scorecard": "T20I # 2388"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Rwanda",
+			"winner": "Rwanda",
+			"margin": "3 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 9, 2023",
+			"scorecard": "T20I # 2387"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Mali",
+			"winner": "Kenya",
+			"margin": "10 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 8, 2023",
+			"scorecard": "T20I # 2386"
+		},
+		{
+			"team1": "Gambia",
+			"team2": "Rwanda",
+			"winner": "Rwanda",
+			"margin": "4 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 8, 2023",
+			"scorecard": "T20I # 2385"
+		},
+		{
+			"team1": "Zimbabwe",
+			"team2": "Ireland",
+			"winner": "Zimbabwe",
+			"margin": "1 wicket",
+			"ground": "Harare",
+			"matchDate": "Dec 7, 2023",
+			"scorecard": "T20I # 2384"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Sierra Leone",
+			"winner": "Kenya",
+			"margin": "8 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 7, 2023",
+			"scorecard": "T20I # 2383"
+		},
+		{
+			"team1": "Cameroon",
+			"team2": "Mali",
+			"winner": "Cameroon",
+			"margin": "39 runs",
+			"ground": "Benoni",
+			"matchDate": "Dec 7, 2023",
+			"scorecard": "T20I # 2382"
+		},
+		{
+			"team1": "Cameroon",
+			"team2": "Kenya",
+			"winner": "Kenya",
+			"margin": "10 wickets",
+			"ground": "Benoni",
+			"matchDate": "Dec 6, 2023",
+			"scorecard": "T20I # 2381"
+		},
+		{
+			"team1": "India",
+			"team2": "Australia",
+			"winner": "India",
+			"margin": "6 runs",
+			"ground": "Bengaluru",
+			"matchDate": "Dec 3, 2023",
+			"scorecard": "T20I # 2380"
+		},
+		{
+			"team1": "India",
+			"team2": "Australia",
+			"winner": "India",
+			"margin": "20 runs",
+			"ground": "Raipur",
+			"matchDate": "Dec 1, 2023",
+			"scorecard": "T20I # 2379"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Nigeria",
+			"winner": "Namibia",
+			"margin": "8 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 30, 2023",
+			"scorecard": "T20I # 2378"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Zimbabwe",
+			"winner": "Zimbabwe",
+			"margin": "110 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 30, 2023",
+			"scorecard": "T20I # 2376"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "9 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 30, 2023",
+			"scorecard": "T20I # 2377"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "33 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 29, 2023",
+			"scorecard": "T20I # 2375"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Zimbabwe",
+			"winner": "Zimbabwe",
+			"margin": "6 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 29, 2023",
+			"scorecard": "T20I # 2373"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Tanzania",
+			"winner": "Tanzania",
+			"margin": "51 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 29, 2023",
+			"scorecard": "T20I # 2374"
+		},
+		{
+			"team1": "India",
+			"team2": "Australia",
+			"winner": "Australia",
+			"margin": "5 wickets",
+			"ground": "Guwahati",
+			"matchDate": "Nov 28, 2023",
+			"scorecard": "T20I # 2372"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Tanzania",
+			"winner": "Namibia",
+			"margin": "58 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 28, 2023",
+			"scorecard": "T20I # 2371"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Kenya",
+			"winner": "Namibia",
+			"margin": "6 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 27, 2023",
+			"scorecard": "T20I # 2368"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Zimbabwe",
+			"winner": "Zimbabwe",
+			"margin": "144 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 27, 2023",
+			"scorecard": "T20I # 2369"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "9 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 27, 2023",
+			"scorecard": "T20I # 2370"
+		},
+		{
+			"team1": "India",
+			"team2": "Australia",
+			"winner": "India",
+			"margin": "44 runs",
+			"ground": "Thiruvananthapuram",
+			"matchDate": "Nov 26, 2023",
+			"scorecard": "T20I # 2367"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Tanzania",
+			"winner": "Nigeria",
+			"margin": "3 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 26, 2023",
+			"scorecard": "T20I # 2366"
+		},
+		{
+			"team1": "Uganda",
+			"team2": "Zimbabwe",
+			"winner": "Uganda",
+			"margin": "5 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 26, 2023",
+			"scorecard": "T20I # 2365"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Rwanda",
+			"winner": "Namibia",
+			"margin": "68 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 25, 2023",
+			"scorecard": "T20I # 2364"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Tanzania",
+			"winner": "Kenya",
+			"margin": "50 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 25, 2023",
+			"scorecard": "T20I # 2363"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Uganda",
+			"winner": "Namibia",
+			"margin": "6 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 24, 2023",
+			"scorecard": "T20I # 2362"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Rwanda",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Windhoek",
+			"matchDate": "Nov 24, 2023",
+			"scorecard": "T20I # 2361"
+		},
+		{
+			"team1": "India",
+			"team2": "Australia",
+			"winner": "India",
+			"margin": "2 wickets",
+			"ground": "Visakhapatnam",
+			"matchDate": "Nov 23, 2023",
+			"scorecard": "T20I # 2360"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Zimbabwe",
+			"winner": "Zimbabwe",
+			"margin": "9 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 23, 2023",
+			"scorecard": "T20I # 2359"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Nigeria",
+			"winner": "Kenya",
+			"margin": "4 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 23, 2023",
+			"scorecard": "T20I # 2358"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Cambodia",
+			"winner": "Indonesia",
+			"margin": "",
+			"ground": "Bali",
+			"matchDate": "Nov 23, 2023",
+			"scorecard": "T20I # 2357"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Zimbabwe",
+			"winner": "Namibia",
+			"margin": "7 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 22, 2023",
+			"scorecard": "T20I # 2356"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Rwanda",
+			"winner": "Kenya",
+			"margin": "17 runs",
+			"ground": "Windhoek",
+			"matchDate": "Nov 22, 2023",
+			"scorecard": "T20I # 2354"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "8 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Nov 22, 2023",
+			"scorecard": "T20I # 2355"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Cambodia",
+			"winner": "Cambodia",
+			"margin": "7 wickets",
+			"ground": "Bali",
+			"matchDate": "Nov 22, 2023",
+			"scorecard": "T20I # 2353"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Cambodia",
+			"winner": "Indonesia",
+			"margin": "104 runs",
+			"ground": "Bali",
+			"matchDate": "Nov 21, 2023",
+			"scorecard": "T20I # 2352"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Cambodia",
+			"winner": "Cambodia",
+			"margin": "8 wickets",
+			"ground": "Bali",
+			"matchDate": "Nov 21, 2023",
+			"scorecard": "T20I # 2351"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Cambodia",
+			"winner": "Indonesia",
+			"margin": "8 wickets",
+			"ground": "Bali",
+			"matchDate": "Nov 20, 2023",
+			"scorecard": "T20I # 2350"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Cambodia",
+			"winner": "Indonesia",
+			"margin": "7 wickets",
+			"ground": "Bali",
+			"matchDate": "Nov 20, 2023",
+			"scorecard": "T20I # 2349"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "Oman",
+			"winner": "tied",
+			"margin": "-",
+			"ground": "Kirtipur",
+			"matchDate": "Nov 5, 2023",
+			"scorecard": "T20I # 2348"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Oman",
+			"winner": "Oman",
+			"margin": "10 wickets",
+			"ground": "Kirtipur",
+			"matchDate": "Nov 3, 2023",
+			"scorecard": "T20I # 2346"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "U.A.E.",
+			"winner": "Nepal",
+			"margin": "8 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Nov 3, 2023",
+			"scorecard": "T20I # 2347"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Singapore",
+			"winner": "Malaysia",
+			"margin": "60 runs",
+			"ground": "Kirtipur",
+			"matchDate": "Nov 2, 2023",
+			"scorecard": "T20I # 2344"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Kuwait",
+			"winner": "Kuwait",
+			"margin": "4 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Nov 2, 2023",
+			"scorecard": "T20I # 2345"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "Oman",
+			"winner": "Oman",
+			"margin": "5 runs",
+			"ground": "Kirtipur",
+			"matchDate": "Nov 2, 2023",
+			"scorecard": "T20I # 2342"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "22 runs",
+			"ground": "Mulpani",
+			"matchDate": "Nov 2, 2023",
+			"scorecard": "T20I # 2343"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "Malaysia",
+			"winner": "Nepal",
+			"margin": "6 wickets",
+			"ground": "Kirtipur",
+			"matchDate": "Oct 31, 2023",
+			"scorecard": "T20I # 2340"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "5 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Oct 31, 2023",
+			"scorecard": "T20I # 2341"
+		},
+		{
+			"team1": "Oman",
+			"team2": "Singapore",
+			"winner": "Oman",
+			"margin": "22 runs",
+			"ground": "Kirtipur",
+			"matchDate": "Oct 31, 2023",
+			"scorecard": "T20I # 2338"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Hong Kong",
+			"winner": "Bahrain",
+			"margin": "20 runs",
+			"ground": "Mulpani",
+			"matchDate": "Oct 31, 2023",
+			"scorecard": "T20I # 2339"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Zimbabwe",
+			"winner": "Namibia",
+			"margin": "8 runs",
+			"ground": "Windhoek",
+			"matchDate": "Oct 30, 2023",
+			"scorecard": "T20I # 2337"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Oman",
+			"winner": "Oman",
+			"margin": "32 runs",
+			"ground": "Kirtipur",
+			"matchDate": "Oct 30, 2023",
+			"scorecard": "T20I # 2335"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "Kuwait",
+			"winner": "Hong Kong",
+			"margin": "16 runs",
+			"ground": "Mulpani",
+			"matchDate": "Oct 30, 2023",
+			"scorecard": "T20I # 2336"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "5 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Oct 30, 2023",
+			"scorecard": "T20I # 2333"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "Singapore",
+			"winner": "Nepal",
+			"margin": "8 wickets",
+			"ground": "Kirtipur",
+			"matchDate": "Oct 30, 2023",
+			"scorecard": "T20I # 2334"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Zimbabwe",
+			"winner": "Namibia",
+			"margin": "7 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Oct 29, 2023",
+			"scorecard": "T20I # 2332"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Zimbabwe",
+			"winner": "Zimbabwe",
+			"margin": "6 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Oct 27, 2023",
+			"scorecard": "T20I # 2331"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "4 wickets",
+			"ground": "Kirtipur",
+			"matchDate": "Oct 27, 2023",
+			"scorecard": "T20I # 2330"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "U.A.E.",
+			"winner": "Hong Kong",
+			"margin": "69 runs",
+			"ground": "Mulpani",
+			"matchDate": "Oct 25, 2023",
+			"scorecard": "T20I # 2328"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Zimbabwe",
+			"winner": "Zimbabwe",
+			"margin": "5 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Oct 25, 2023",
+			"scorecard": "T20I # 2329"
+		},
+		{
+			"team1": "Namibia",
+			"team2": "Zimbabwe",
+			"winner": "Namibia",
+			"margin": "7 wickets",
+			"ground": "Windhoek",
+			"matchDate": "Oct 24, 2023",
+			"scorecard": "T20I # 2327"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "U.A.E.",
+			"winner": "Nepal",
+			"margin": "5 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Oct 23, 2023",
+			"scorecard": "T20I # 2326"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "6 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Oct 22, 2023",
+			"scorecard": "T20I # 2325"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "Hong Kong",
+			"winner": "Nepal",
+			"margin": "79 runs",
+			"ground": "Mulpani",
+			"matchDate": "Oct 21, 2023",
+			"scorecard": "T20I # 2324"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Chile",
+			"winner": "Argentina",
+			"margin": "10 wickets",
+			"ground": "Buenos Aires",
+			"matchDate": "Oct 20, 2023",
+			"scorecard": "T20I # 2323"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Mexico",
+			"winner": "Argentina",
+			"margin": "4 wickets",
+			"ground": "Buenos Aires",
+			"matchDate": "Oct 19, 2023",
+			"scorecard": "T20I # 2322"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "Hong Kong",
+			"winner": "Nepal",
+			"margin": "6 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Oct 19, 2023",
+			"scorecard": "T20I # 2321"
+		},
+		{
+			"team1": "Chile",
+			"team2": "Mexico",
+			"winner": "Mexico",
+			"margin": "5 wickets",
+			"ground": "Buenos Aires",
+			"matchDate": "Oct 18, 2023",
+			"scorecard": "T20I # 2320"
+		},
+		{
+			"team1": "Nepal",
+			"team2": "U.A.E.",
+			"winner": "Nepal",
+			"margin": "7 wickets",
+			"ground": "Mulpani",
+			"matchDate": "Oct 18, 2023",
+			"scorecard": "T20I # 2319"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Rwanda",
+			"winner": "Nigeria",
+			"margin": "17 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 15, 2023",
+			"scorecard": "T20I # 2318"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Luxembourg",
+			"winner": "Luxembourg",
+			"margin": "11 runs",
+			"ground": "Gibraltar",
+			"matchDate": "Oct 15, 2023",
+			"scorecard": "T20I # 2317"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Sierra Leone",
+			"winner": "Sierra Leone",
+			"margin": "6 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 15, 2023",
+			"scorecard": "T20I # 2316"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Luxembourg",
+			"winner": "Gibraltar",
+			"margin": "24 runs",
+			"ground": "Gibraltar",
+			"matchDate": "Oct 15, 2023",
+			"scorecard": "T20I # 2315"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Sierra Leone",
+			"winner": "Ghana",
+			"margin": "5 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 14, 2023",
+			"scorecard": "T20I # 2314"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Rwanda",
+			"winner": "Nigeria",
+			"margin": "8 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 14, 2023",
+			"scorecard": "T20I # 2313"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Sierra Leone",
+			"winner": "Nigeria",
+			"margin": "53 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 12, 2023",
+			"scorecard": "T20I # 2312"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Rwanda",
+			"winner": "Rwanda",
+			"margin": "9 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 12, 2023",
+			"scorecard": "T20I # 2311"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Sierra Leone",
+			"winner": "Rwanda",
+			"margin": "5 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 11, 2023",
+			"scorecard": "T20I # 2310"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Ghana",
+			"winner": "Nigeria",
+			"margin": "5 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 11, 2023",
+			"scorecard": "T20I # 2309"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Sierra Leone",
+			"winner": "Sierra Leone",
+			"margin": "2 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 10, 2023",
+			"scorecard": "T20I # 2308"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Ghana",
+			"winner": "Nigeria",
+			"margin": "82 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 10, 2023",
+			"scorecard": "T20I # 2307"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Rwanda",
+			"winner": "Rwanda",
+			"margin": "47 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 8, 2023",
+			"scorecard": "T20I # 2306"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Sierra Leone",
+			"winner": "Nigeria",
+			"margin": "9 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 8, 2023",
+			"scorecard": "T20I # 2305"
+		},
+		{
+			"team1": "Bermuda",
+			"team2": "Canada",
+			"winner": "Canada",
+			"margin": "39 runs",
+			"ground": "Hamilton",
+			"matchDate": "Oct 7, 2023",
+			"scorecard": "T20I # 2304"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Sierra Leone",
+			"winner": "Ghana",
+			"margin": "8 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 7, 2023",
+			"scorecard": "T20I # 2303"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Rwanda",
+			"winner": "Nigeria",
+			"margin": "6 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 7, 2023",
+			"scorecard": "T20I # 2302"
+		},
+		{
+			"team1": "Afghanistan",
+			"team2": "India",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 7, 2023",
+			"scorecard": "T20I # 2301"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "Pakistan",
+			"winner": "Bangladesh",
+			"margin": "6 wickets",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 7, 2023",
+			"scorecard": "T20I # 2300"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Sierra Leone",
+			"winner": "Rwanda",
+			"margin": "33 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 6, 2023",
+			"scorecard": "T20I # 2299"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Ghana",
+			"winner": "Nigeria",
+			"margin": "35 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 6, 2023",
+			"scorecard": "T20I # 2298"
+		},
+		{
+			"team1": "Afghanistan",
+			"team2": "Pakistan",
+			"winner": "Afghanistan",
+			"margin": "4 wickets",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 6, 2023",
+			"scorecard": "T20I # 2297"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "India",
+			"winner": "India",
+			"margin": "9 wickets",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 6, 2023",
+			"scorecard": "T20I # 2296"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Rwanda",
+			"winner": "tied",
+			"margin": "-",
+			"ground": "Lagos",
+			"matchDate": "Oct 5, 2023",
+			"scorecard": "T20I # 2295"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Serbia",
+			"winner": "Gibraltar",
+			"margin": "7 wickets",
+			"ground": "Gibraltar",
+			"matchDate": "Oct 5, 2023",
+			"scorecard": "T20I # 2294"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "Saudi Arabia",
+			"winner": "Kuwait",
+			"margin": "4 wickets",
+			"ground": "Doha",
+			"matchDate": "Oct 5, 2023",
+			"scorecard": "T20I # 2293"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Sierra Leone",
+			"winner": "Nigeria",
+			"margin": "63 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 5, 2023",
+			"scorecard": "T20I # 2292"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Serbia",
+			"winner": "Gibraltar",
+			"margin": "7 wickets",
+			"ground": "Gibraltar",
+			"matchDate": "Oct 5, 2023",
+			"scorecard": "T20I # 2291"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Maldives",
+			"winner": "Qatar",
+			"margin": "42 runs",
+			"ground": "Doha",
+			"matchDate": "Oct 5, 2023",
+			"scorecard": "T20I # 2290"
+		},
+		{
+			"team1": "Bermuda",
+			"team2": "Panama",
+			"winner": "Bermuda",
+			"margin": "5 wickets",
+			"ground": "Hamilton",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2289"
+		},
+		{
+			"team1": "Ghana",
+			"team2": "Sierra Leone",
+			"winner": "Ghana",
+			"margin": "3 wickets",
+			"ground": "Lagos",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2288"
+		},
+		{
+			"team1": "Canada",
+			"team2": "Cayman Is",
+			"winner": "Canada",
+			"margin": "166 runs",
+			"ground": "Hamilton",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2287"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Saudi Arabia",
+			"winner": "Saudi Arabia",
+			"margin": "7 wickets",
+			"ground": "Doha",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2286"
+		},
+		{
+			"team1": "Nigeria",
+			"team2": "Rwanda",
+			"winner": "Nigeria",
+			"margin": "54 runs",
+			"ground": "Lagos",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2285"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "Malaysia",
+			"winner": "Bangladesh",
+			"margin": "2 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2283"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "Maldives",
+			"winner": "Kuwait",
+			"margin": "8 wickets",
+			"ground": "Doha",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2284"
+		},
+		{
+			"team1": "Afghanistan",
+			"team2": "Sri Lanka",
+			"winner": "Afghanistan",
+			"margin": "8 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 4, 2023",
+			"scorecard": "T20I # 2282"
+		},
+		{
+			"team1": "Bermuda",
+			"team2": "Cayman Is",
+			"winner": "Bermuda",
+			"margin": "53 runs",
+			"ground": "Hamilton",
+			"matchDate": "Oct 3, 2023",
+			"scorecard": "T20I # 2281"
+		},
+		{
+			"team1": "Canada",
+			"team2": "Panama",
+			"winner": "Canada",
+			"margin": "163 runs",
+			"ground": "Hamilton",
+			"matchDate": "Oct 3, 2023",
+			"scorecard": "T20I # 2280"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "Pakistan",
+			"winner": "Pakistan",
+			"margin": "68 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 3, 2023",
+			"scorecard": "T20I # 2279"
+		},
+		{
+			"team1": "India",
+			"team2": "Nepal",
+			"winner": "India",
+			"margin": "23 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 3, 2023",
+			"scorecard": "T20I # 2278"
+		},
+		{
+			"team1": "Maldives",
+			"team2": "Saudi Arabia",
+			"winner": "Saudi Arabia",
+			"margin": "9 wickets",
+			"ground": "Doha",
+			"matchDate": "Oct 2, 2023",
+			"scorecard": "T20I # 2277"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Kuwait",
+			"winner": "Kuwait",
+			"margin": "5 wickets",
+			"ground": "Doha",
+			"matchDate": "Oct 2, 2023",
+			"scorecard": "T20I # 2276"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Thailand",
+			"winner": "Malaysia",
+			"margin": "194 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 2, 2023",
+			"scorecard": "T20I # 2275"
+		},
+		{
+			"team1": "Canada",
+			"team2": "Cayman Is",
+			"winner": "Canada",
+			"margin": "108 runs",
+			"ground": " Sandys Parish",
+			"matchDate": "Oct 1, 2023",
+			"scorecard": "T20I # 2274"
+		},
+		{
+			"team1": "Bermuda",
+			"team2": "Panama",
+			"winner": "Bermuda",
+			"margin": "7 wickets",
+			"ground": " Sandys Parish",
+			"matchDate": "Oct 1, 2023",
+			"scorecard": "T20I # 2273"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "Saudi Arabia",
+			"winner": "Saudi Arabia",
+			"margin": "3 wickets",
+			"ground": "Doha",
+			"matchDate": "Oct 1, 2023",
+			"scorecard": "T20I # 2272"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "Japan",
+			"winner": "Hong Kong",
+			"margin": "5 wickets",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 1, 2023",
+			"scorecard": "T20I # 2270"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Maldives",
+			"winner": "Qatar",
+			"margin": "9 wickets",
+			"ground": "Doha",
+			"matchDate": "Oct 1, 2023",
+			"scorecard": "T20I # 2271"
+		},
+		{
+			"team1": "Maldives",
+			"team2": "Nepal",
+			"winner": "Nepal",
+			"margin": "138 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Oct 1, 2023",
+			"scorecard": "T20I # 2269"
+		},
+		{
+			"team1": "Cayman Is",
+			"team2": "Panama",
+			"winner": "Cayman Is",
+			"margin": "7 wickets",
+			"ground": " Sandys Parish",
+			"matchDate": "Sep 30, 2023",
+			"scorecard": "T20I # 2268"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Estonia",
+			"winner": "Estonia",
+			"margin": "8 wickets",
+			"ground": "Gibraltar",
+			"matchDate": "Sep 30, 2023",
+			"scorecard": "T20I # 2267"
+		},
+		{
+			"team1": "Bermuda",
+			"team2": "Canada",
+			"winner": "Bermuda",
+			"margin": "86 runs",
+			"ground": " Sandys Parish",
+			"matchDate": "Sep 30, 2023",
+			"scorecard": "T20I # 2266"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Estonia",
+			"winner": "Gibraltar",
+			"margin": "2 wickets",
+			"ground": "Gibraltar",
+			"matchDate": "Sep 30, 2023",
+			"scorecard": "T20I # 2265"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Saudi Arabia",
+			"winner": "Saudi Arabia",
+			"margin": "4 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 29, 2023",
+			"scorecard": "T20I # 2264"
+		},
+		{
+			"team1": "Singapore",
+			"team2": "Thailand",
+			"winner": "Singapore",
+			"margin": "99 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Sep 29, 2023",
+			"scorecard": "T20I # 2262"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "Maldives",
+			"winner": "Kuwait",
+			"margin": "7 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 29, 2023",
+			"scorecard": "T20I # 2263"
+		},
+		{
+			"team1": "Cambodia",
+			"team2": "Hong Kong",
+			"winner": "Hong Kong",
+			"margin": "9 wickets",
+			"ground": "Hangzhou",
+			"matchDate": "Sep 29, 2023",
+			"scorecard": "T20I # 2261"
+		},
+		{
+			"team1": "Maldives",
+			"team2": "Saudi Arabia",
+			"winner": "Saudi Arabia",
+			"margin": "62 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 28, 2023",
+			"scorecard": "T20I # 2260"
+		},
+		{
+			"team1": "Maldives",
+			"team2": "Mongolia",
+			"winner": "Maldives",
+			"margin": "9 wickets",
+			"ground": "Hangzhou",
+			"matchDate": "Sep 28, 2023",
+			"scorecard": "T20I # 2258"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Kuwait",
+			"winner": "Kuwait",
+			"margin": "7 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 28, 2023",
+			"scorecard": "T20I # 2259"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Singapore",
+			"winner": "Malaysia",
+			"margin": "73 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Sep 28, 2023",
+			"scorecard": "T20I # 2257"
+		},
+		{
+			"team1": "Cambodia",
+			"team2": "Japan",
+			"winner": "Japan",
+			"margin": "3 wickets",
+			"ground": "Hangzhou",
+			"matchDate": "Sep 27, 2023",
+			"scorecard": "T20I # 2256"
+		},
+		{
+			"team1": "Mongolia",
+			"team2": "Nepal",
+			"winner": "Nepal",
+			"margin": "273 runs",
+			"ground": "Hangzhou",
+			"matchDate": "Sep 27, 2023",
+			"scorecard": "T20I # 2255"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "P.N.G.",
+			"winner": "P.N.G.",
+			"margin": "1 wicket",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Sep 24, 2023",
+			"scorecard": "T20I # 2254"
+		},
+		{
+			"team1": "Oman",
+			"team2": "U.A.E.",
+			"winner": "Oman",
+			"margin": "5 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 23, 2023",
+			"scorecard": "T20I # 2253"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "P.N.G.",
+			"winner": "P.N.G.",
+			"margin": "4 wickets",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Sep 23, 2023",
+			"scorecard": "T20I # 2252"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "Oman",
+			"winner": "Oman",
+			"margin": "68 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 22, 2023",
+			"scorecard": "T20I # 2251"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "U.A.E.",
+			"winner": "Bahrain",
+			"margin": "3 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 22, 2023",
+			"scorecard": "T20I # 2250"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Hong Kong",
+			"winner": "Malaysia",
+			"margin": "23 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Sep 22, 2023",
+			"scorecard": "T20I # 2249"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Saudi Arabia",
+			"winner": "Qatar",
+			"margin": "7 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 21, 2023",
+			"scorecard": "T20I # 2248"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "P.N.G.",
+			"winner": "P.N.G.",
+			"margin": "22 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Sep 21, 2023",
+			"scorecard": "T20I # 2247"
+		},
+		{
+			"team1": "Oman",
+			"team2": "Saudi Arabia",
+			"winner": "Oman",
+			"margin": "47 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 20, 2023",
+			"scorecard": "T20I # 2246"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "60 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 20, 2023",
+			"scorecard": "T20I # 2245"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "P.N.G.",
+			"winner": "P.N.G.",
+			"margin": "45 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Sep 20, 2023",
+			"scorecard": "T20I # 2244"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Oman",
+			"winner": "Bahrain",
+			"margin": "1 run",
+			"ground": "Doha",
+			"matchDate": "Sep 19, 2023",
+			"scorecard": "T20I # 2243"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "31 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 19, 2023",
+			"scorecard": "T20I # 2242"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Hong Kong",
+			"winner": "Malaysia",
+			"margin": "102 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Sep 19, 2023",
+			"scorecard": "T20I # 2241"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Saudi Arabia",
+			"winner": "Bahrain",
+			"margin": "6 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 18, 2023",
+			"scorecard": "T20I # 2240"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Kuwait",
+			"winner": "Qatar",
+			"margin": "1 run",
+			"ground": "Doha",
+			"matchDate": "Sep 18, 2023",
+			"scorecard": "T20I # 2239"
+		},
+		{
+			"team1": "Saudi Arabia",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "8 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 17, 2023",
+			"scorecard": "T20I # 2238"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Oman",
+			"winner": "Oman",
+			"margin": "19 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 17, 2023",
+			"scorecard": "T20I # 2237"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Kuwait",
+			"winner": "Kuwait",
+			"margin": "8 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 16, 2023",
+			"scorecard": "T20I # 2236"
+		},
+		{
+			"team1": "Oman",
+			"team2": "U.A.E.",
+			"winner": "U.A.E.",
+			"margin": "22 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 16, 2023",
+			"scorecard": "T20I # 2235"
+		},
+		{
+			"team1": "Qatar",
+			"team2": "Bahrain",
+			"winner": "Qatar",
+			"margin": "19 runs",
+			"ground": "Doha",
+			"matchDate": "Sep 15, 2023",
+			"scorecard": "T20I # 2234"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "Saudi Arabia",
+			"winner": "Kuwait",
+			"margin": "5 wickets",
+			"ground": "Doha",
+			"matchDate": "Sep 15, 2023",
+			"scorecard": "T20I # 2233"
+		},
+		{
+			"team1": "England",
+			"team2": "New Zealand",
+			"winner": "New Zealand",
+			"margin": "6 wickets",
+			"ground": "Nottingham",
+			"matchDate": "Sep 5, 2023",
+			"scorecard": "T20I # 2232"
+		},
+		{
+			"team1": "England",
+			"team2": "New Zealand",
+			"winner": "New Zealand",
+			"margin": "74 runs",
+			"ground": "Birmingham",
+			"matchDate": "Sep 3, 2023",
+			"scorecard": "T20I # 2231"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "Australia",
+			"winner": "Australia",
+			"margin": "5 wickets",
+			"ground": "Durban",
+			"matchDate": "Sep 3, 2023",
+			"scorecard": "T20I # 2230"
+		},
+		{
+			"team1": "England",
+			"team2": "New Zealand",
+			"winner": "England",
+			"margin": "95 runs",
+			"ground": "Manchester",
+			"matchDate": "Sep 1, 2023",
+			"scorecard": "T20I # 2229"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "Australia",
+			"winner": "Australia",
+			"margin": "8 wickets",
+			"ground": "Durban",
+			"matchDate": "Sep 1, 2023",
+			"scorecard": "T20I # 2228"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Tanzania",
+			"winner": "Tanzania",
+			"margin": "49 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 31, 2023",
+			"scorecard": "T20I # 2227"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "8 wickets",
+			"ground": "Rwanda",
+			"matchDate": "Aug 31, 2023",
+			"scorecard": "T20I # 2226"
+		},
+		{
+			"team1": "England",
+			"team2": "New Zealand",
+			"winner": "England",
+			"margin": "7 wickets",
+			"ground": "Chester-le-Street",
+			"matchDate": "Aug 30, 2023",
+			"scorecard": "T20I # 2225"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "Australia",
+			"winner": "Australia",
+			"margin": "111 runs",
+			"ground": "Durban",
+			"matchDate": "Aug 30, 2023",
+			"scorecard": "T20I # 2224"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Tanzania",
+			"winner": "Tanzania",
+			"margin": "59 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 30, 2023",
+			"scorecard": "T20I # 2223"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "19 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 30, 2023",
+			"scorecard": "T20I # 2222"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "8 wickets",
+			"ground": "Rwanda",
+			"matchDate": "Aug 28, 2023",
+			"scorecard": "T20I # 2221"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "59 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 28, 2023",
+			"scorecard": "T20I # 2220"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "6 wickets",
+			"ground": "Rwanda",
+			"matchDate": "Aug 27, 2023",
+			"scorecard": "T20I # 2219"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Tanzania",
+			"winner": "Tanzania",
+			"margin": "9 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 27, 2023",
+			"scorecard": "T20I # 2218"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "19 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 25, 2023",
+			"scorecard": "T20I # 2217"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Tanzania",
+			"winner": "Tanzania",
+			"margin": "1 wicket",
+			"ground": "Rwanda",
+			"matchDate": "Aug 25, 2023",
+			"scorecard": "T20I # 2216"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "60 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 24, 2023",
+			"scorecard": "T20I # 2215"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "86 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 24, 2023",
+			"scorecard": "T20I # 2214"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Tanzania",
+			"winner": "Tanzania",
+			"margin": "7 wickets",
+			"ground": "Rwanda",
+			"matchDate": "Aug 22, 2023",
+			"scorecard": "T20I # 2213"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "61 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 22, 2023",
+			"scorecard": "T20I # 2212"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Uganda",
+			"winner": "Tanzania",
+			"margin": "3 wickets",
+			"ground": "Rwanda",
+			"matchDate": "Aug 21, 2023",
+			"scorecard": "T20I # 2211"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Tanzania",
+			"winner": "Rwanda",
+			"margin": "7 wickets",
+			"ground": "Rwanda",
+			"matchDate": "Aug 21, 2023",
+			"scorecard": "T20I # 2210"
+		},
+		{
+			"team1": "Ireland",
+			"team2": "India",
+			"winner": "India",
+			"margin": "33 runs",
+			"ground": "Dublin (Malahide)",
+			"matchDate": "Aug 20, 2023",
+			"scorecard": "T20I # 2208"
+		},
+		{
+			"team1": "U.A.E.",
+			"team2": "New Zealand",
+			"winner": "New Zealand",
+			"margin": "32 runs",
+			"ground": "Dubai (DICS)",
+			"matchDate": "Aug 20, 2023",
+			"scorecard": "T20I # 2209"
+		},
+		{
+			"team1": "Tanzania",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "6 wickets",
+			"ground": "Rwanda",
+			"matchDate": "Aug 20, 2023",
+			"scorecard": "T20I # 2207"
+		},
+		{
+			"team1": "Romania",
+			"team2": "Malta",
+			"winner": "Romania",
+			"margin": "6 runs",
+			"ground": "Ilfov County",
+			"matchDate": "Aug 20, 2023",
+			"scorecard": "T20I # 2206"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "40 runs",
+			"ground": "Rwanda",
+			"matchDate": "Aug 20, 2023",
+			"scorecard": "T20I # 2205"
+		},
+		{
+			"team1": "Romania",
+			"team2": "Malta",
+			"winner": "Romania",
+			"margin": "9 wickets",
+			"ground": "Ilfov County",
+			"matchDate": "Aug 20, 2023",
+			"scorecard": "T20I # 2204"
+		},
+		{
+			"team1": "U.A.E.",
+			"team2": "New Zealand",
+			"winner": "U.A.E.",
+			"margin": "7 wickets",
+			"ground": "Dubai (DICS)",
+			"matchDate": "Aug 19, 2023",
+			"scorecard": "T20I # 2203"
+		},
+		{
+			"team1": "Romania",
+			"team2": "Malta",
+			"winner": "Romania",
+			"margin": "3 wickets",
+			"ground": "Ilfov County",
+			"matchDate": "Aug 19, 2023",
+			"scorecard": "T20I # 2202"
+		},
+		{
+			"team1": "Romania",
+			"team2": "Malta",
+			"winner": "Malta",
+			"margin": "4 wickets",
+			"ground": "Ilfov County",
+			"matchDate": "Aug 19, 2023",
+			"scorecard": "T20I # 2201"
+		},
+		{
+			"team1": "Ireland",
+			"team2": "India",
+			"winner": "India",
+			"margin": "2 runs",
+			"ground": "Dublin (Malahide)",
+			"matchDate": "Aug 18, 2023",
+			"scorecard": "T20I # 2200"
+		},
+		{
+			"team1": "Romania",
+			"team2": "Malta",
+			"winner": "Malta",
+			"margin": "8 wickets",
+			"ground": "Ilfov County",
+			"matchDate": "Aug 18, 2023",
+			"scorecard": "T20I # 2199"
+		},
+		{
+			"team1": "U.A.E.",
+			"team2": "New Zealand",
+			"winner": "New Zealand",
+			"margin": "19 runs",
+			"ground": "Dubai (DICS)",
+			"matchDate": "Aug 17, 2023",
+			"scorecard": "T20I # 2198"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Guernsey",
+			"winner": "Guernsey",
+			"margin": "10 runs",
+			"ground": "Deventer",
+			"matchDate": "Aug 15, 2023",
+			"scorecard": "T20I # 2197"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Guernsey",
+			"winner": "Guernsey",
+			"margin": "5 wickets",
+			"ground": "Deventer",
+			"matchDate": "Aug 14, 2023",
+			"scorecard": "T20I # 2196"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Guernsey",
+			"winner": "Germany",
+			"margin": "9 wickets",
+			"ground": "Deventer",
+			"matchDate": "Aug 14, 2023",
+			"scorecard": "T20I # 2195"
+		},
+		{
+			"team1": "India",
+			"team2": "West Indies",
+			"winner": "West Indies",
+			"margin": "8 wickets",
+			"ground": "Lauderhill",
+			"matchDate": "Aug 13, 2023",
+			"scorecard": "T20I # 2194"
+		},
+		{
+			"team1": "India",
+			"team2": "West Indies",
+			"winner": "India",
+			"margin": "9 wickets",
+			"ground": "Lauderhill",
+			"matchDate": "Aug 12, 2023",
+			"scorecard": "T20I # 2193"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "India",
+			"winner": "India",
+			"margin": "7 wickets",
+			"ground": "Providence",
+			"matchDate": "Aug 8, 2023",
+			"scorecard": "T20I # 2192"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "India",
+			"winner": "West Indies",
+			"margin": "2 wickets",
+			"ground": "Providence",
+			"matchDate": "Aug 6, 2023",
+			"scorecard": "T20I # 2191"
+		},
+		{
+			"team1": "Hungary",
+			"team2": "Croatia",
+			"winner": "Hungary",
+			"margin": "7 wickets",
+			"ground": "Szodliget",
+			"matchDate": "Aug 6, 2023",
+			"scorecard": "T20I # 2190"
+		},
+		{
+			"team1": "Hungary",
+			"team2": "Croatia",
+			"winner": "Hungary",
+			"margin": "145 runs",
+			"ground": "Szodliget",
+			"matchDate": "Aug 5, 2023",
+			"scorecard": "T20I # 2189"
+		},
+		{
+			"team1": "West Indies",
+			"team2": "India",
+			"winner": "West Indies",
+			"margin": "4 runs",
+			"ground": "Tarouba",
+			"matchDate": "Aug 3, 2023",
+			"scorecard": "T20I # 2188"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Thailand",
+			"winner": "Malaysia",
+			"margin": "7 wickets",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Aug 1, 2023",
+			"scorecard": "T20I # 2187"
+		},
+		{
+			"team1": "China",
+			"team2": "Myanmar",
+			"winner": "China",
+			"margin": "5 wickets",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 31, 2023",
+			"scorecard": "T20I # 2186"
+		},
+		{
+			"team1": "Bhutan",
+			"team2": "Thailand",
+			"winner": "Thailand",
+			"margin": "8 wickets",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 31, 2023",
+			"scorecard": "T20I # 2185"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Myanmar",
+			"winner": "Malaysia",
+			"margin": "184 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 30, 2023",
+			"scorecard": "T20I # 2184"
+		},
+		{
+			"team1": "Bhutan",
+			"team2": "China",
+			"winner": "Bhutan",
+			"margin": "95 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 30, 2023",
+			"scorecard": "T20I # 2183"
+		},
+		{
+			"team1": "P.N.G.",
+			"team2": "Japan",
+			"winner": "P.N.G.",
+			"margin": "6 wickets",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 29, 2023",
+			"scorecard": "T20I # 2182"
+		},
+		{
+			"team1": "Philippines",
+			"team2": "Vanuatu",
+			"winner": "Vanuatu",
+			"margin": "3 wickets",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 29, 2023",
+			"scorecard": "T20I # 2181"
+		},
+		{
+			"team1": "Scotland",
+			"team2": "Ireland",
+			"winner": "Scotland",
+			"margin": "8 runs",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 28, 2023",
+			"scorecard": "T20I # 2180"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Italy",
+			"winner": "Italy",
+			"margin": "4 wickets",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 28, 2023",
+			"scorecard": "T20I # 2178"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Jersey",
+			"winner": "Jersey",
+			"margin": "28 runs",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 28, 2023",
+			"scorecard": "T20I # 2179"
+		},
+		{
+			"team1": "P.N.G.",
+			"team2": "Philippines",
+			"winner": "P.N.G.",
+			"margin": "100 runs",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 28, 2023",
+			"scorecard": "T20I # 2177"
+		},
+		{
+			"team1": "Myanmar",
+			"team2": "Thailand",
+			"winner": "Thailand",
+			"margin": "101 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 28, 2023",
+			"scorecard": "T20I # 2176"
+		},
+		{
+			"team1": "Japan",
+			"team2": "Vanuatu",
+			"winner": "Vanuatu",
+			"margin": "5 wickets",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 28, 2023",
+			"scorecard": "T20I # 2175"
+		},
+		{
+			"team1": "Scotland",
+			"team2": "Denmark",
+			"winner": "Scotland",
+			"margin": "33 runs",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 27, 2023",
+			"scorecard": "T20I # 2174"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Bhutan",
+			"winner": "Malaysia",
+			"margin": "75 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 27, 2023",
+			"scorecard": "T20I # 2173"
+		},
+		{
+			"team1": "China",
+			"team2": "Thailand",
+			"winner": "Thailand",
+			"margin": "9 wickets",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 27, 2023",
+			"scorecard": "T20I # 2172"
+		},
+		{
+			"team1": "Bhutan",
+			"team2": "Myanmar",
+			"winner": "Bhutan",
+			"margin": "31 runs",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 26, 2023",
+			"scorecard": "T20I # 2171"
+		},
+		{
+			"team1": "Japan",
+			"team2": "Philippines",
+			"winner": "Japan",
+			"margin": "33 runs",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 26, 2023",
+			"scorecard": "T20I # 2170"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "China",
+			"winner": "Malaysia",
+			"margin": "8 wickets",
+			"ground": "Kuala Lumpur",
+			"matchDate": "Jul 26, 2023",
+			"scorecard": "T20I # 2169"
+		},
+		{
+			"team1": "P.N.G.",
+			"team2": "Vanuatu",
+			"winner": "P.N.G.",
+			"margin": "39 runs",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 26, 2023",
+			"scorecard": "T20I # 2168"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Jersey",
+			"winner": "Jersey",
+			"margin": "51 runs",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 25, 2023",
+			"scorecard": "T20I # 2167"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Italy",
+			"winner": "Italy",
+			"margin": "26 runs",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 25, 2023",
+			"scorecard": "T20I # 2165"
+		},
+		{
+			"team1": "Scotland",
+			"team2": "Austria",
+			"winner": "Scotland",
+			"margin": "166 runs",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 25, 2023",
+			"scorecard": "T20I # 2166"
+		},
+		{
+			"team1": "P.N.G.",
+			"team2": "Japan",
+			"winner": "P.N.G.",
+			"margin": "6 wickets",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 25, 2023",
+			"scorecard": "T20I # 2164"
+		},
+		{
+			"team1": "Philippines",
+			"team2": "Vanuatu",
+			"winner": "Philippines",
+			"margin": "6 wickets",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 25, 2023",
+			"scorecard": "T20I # 2163"
+		},
+		{
+			"team1": "Ireland",
+			"team2": "Jersey",
+			"winner": "Ireland",
+			"margin": "9 wickets",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 24, 2023",
+			"scorecard": "T20I # 2162"
+		},
+		{
+			"team1": "Scotland",
+			"team2": "Italy",
+			"winner": "Scotland",
+			"margin": "155 runs",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 24, 2023",
+			"scorecard": "T20I # 2160"
+		},
+		{
+			"team1": "Austria",
+			"team2": "Denmark",
+			"winner": "Denmark",
+			"margin": "8 wickets",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 24, 2023",
+			"scorecard": "T20I # 2161"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Germany",
+			"winner": "Germany",
+			"margin": "6 wickets",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 23, 2023",
+			"scorecard": "T20I # 2159"
+		},
+		{
+			"team1": "Austria",
+			"team2": "Ireland",
+			"winner": "Ireland",
+			"margin": "128 runs",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 23, 2023",
+			"scorecard": "T20I # 2157"
+		},
+		{
+			"team1": "Italy",
+			"team2": "Jersey",
+			"winner": "Italy",
+			"margin": "25 runs",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 23, 2023",
+			"scorecard": "T20I # 2158"
+		},
+		{
+			"team1": "P.N.G.",
+			"team2": "Philippines",
+			"winner": "P.N.G.",
+			"margin": "117 runs",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 23, 2023",
+			"scorecard": "T20I # 2156"
+		},
+		{
+			"team1": "Japan",
+			"team2": "Vanuatu",
+			"winner": "Japan",
+			"margin": "21 runs",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 23, 2023",
+			"scorecard": "T20I # 2155"
+		},
+		{
+			"team1": "P.N.G.",
+			"team2": "Vanuatu",
+			"winner": "P.N.G.",
+			"margin": "9 wickets",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 22, 2023",
+			"scorecard": "T20I # 2154"
+		},
+		{
+			"team1": "Japan",
+			"team2": "Philippines",
+			"winner": "Japan",
+			"margin": "53 runs",
+			"ground": "Port Moresby",
+			"matchDate": "Jul 22, 2023",
+			"scorecard": "T20I # 2153"
+		},
+		{
+			"team1": "Scotland",
+			"team2": "Jersey",
+			"winner": "Scotland",
+			"margin": "14 runs",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 21, 2023",
+			"scorecard": "T20I # 2152"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Ireland",
+			"winner": "Ireland",
+			"margin": "9 wickets",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 21, 2023",
+			"scorecard": "T20I # 2150"
+		},
+		{
+			"team1": "Austria",
+			"team2": "Germany",
+			"winner": "Germany",
+			"margin": "9 wickets",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 21, 2023",
+			"scorecard": "T20I # 2151"
+		},
+		{
+			"team1": "Scotland",
+			"team2": "Germany",
+			"winner": "Scotland",
+			"margin": "72 runs",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 20, 2023",
+			"scorecard": "T20I # 2149"
+		},
+		{
+			"team1": "Austria",
+			"team2": "Jersey",
+			"winner": "Jersey",
+			"margin": "8 wickets",
+			"ground": "Edinburgh",
+			"matchDate": "Jul 20, 2023",
+			"scorecard": "T20I # 2147"
+		},
+		{
+			"team1": "Ireland",
+			"team2": "Italy",
+			"winner": "Ireland",
+			"margin": "7 runs",
+			"ground": "Edinburgh (Golden)",
+			"matchDate": "Jul 20, 2023",
+			"scorecard": "T20I # 2148"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Switzerland",
+			"winner": "Switzerland",
+			"margin": "6 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 16, 2023",
+			"scorecard": "T20I # 2146"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "Afghanistan",
+			"winner": "Bangladesh",
+			"margin": "6 wickets",
+			"ground": "Sylhet",
+			"matchDate": "Jul 16, 2023",
+			"scorecard": "T20I # 2145"
+		},
+		{
+			"team1": "Luxembourg",
+			"team2": "Romania",
+			"winner": "Romania",
+			"margin": "7 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 16, 2023",
+			"scorecard": "T20I # 2144"
+		},
+		{
+			"team1": "Malta",
+			"team2": "France",
+			"winner": "Malta",
+			"margin": "7 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 16, 2023",
+			"scorecard": "T20I # 2143"
+		},
+		{
+			"team1": "France",
+			"team2": "Luxembourg",
+			"winner": "Luxembourg",
+			"margin": "4 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 15, 2023",
+			"scorecard": "T20I # 2142"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Switzerland",
+			"winner": "Switzerland",
+			"margin": "6 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 15, 2023",
+			"scorecard": "T20I # 2141"
+		},
+		{
+			"team1": "Luxembourg",
+			"team2": "Romania",
+			"winner": "Luxembourg",
+			"margin": "7 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 15, 2023",
+			"scorecard": "T20I # 2140"
+		},
+		{
+			"team1": "France",
+			"team2": "Switzerland",
+			"winner": "Switzerland",
+			"margin": "6 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 14, 2023",
+			"scorecard": "T20I # 2139"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "Afghanistan",
+			"winner": "Bangladesh",
+			"margin": "2 wickets",
+			"ground": "Sylhet",
+			"matchDate": "Jul 14, 2023",
+			"scorecard": "T20I # 2138"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Romania",
+			"winner": "Malta",
+			"margin": "41 runs",
+			"ground": "Marsa",
+			"matchDate": "Jul 14, 2023",
+			"scorecard": "T20I # 2137"
+		},
+		{
+			"team1": "Luxembourg",
+			"team2": "Switzerland",
+			"winner": "Switzerland",
+			"margin": "8 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 14, 2023",
+			"scorecard": "T20I # 2136"
+		},
+		{
+			"team1": "France",
+			"team2": "Romania",
+			"winner": "France",
+			"margin": "88 runs",
+			"ground": "Marsa",
+			"matchDate": "Jul 13, 2023",
+			"scorecard": "T20I # 2135"
+		},
+		{
+			"team1": "Romania",
+			"team2": "Switzerland",
+			"winner": "Switzerland",
+			"margin": "6 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 13, 2023",
+			"scorecard": "T20I # 2134"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Luxembourg",
+			"winner": "Malta",
+			"margin": "6 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 13, 2023",
+			"scorecard": "T20I # 2133"
+		},
+		{
+			"team1": "Malta",
+			"team2": "France",
+			"winner": "France",
+			"margin": "30 runs",
+			"ground": "Marsa",
+			"matchDate": "Jul 12, 2023",
+			"scorecard": "T20I # 2132"
+		},
+		{
+			"team1": "France",
+			"team2": "Luxembourg",
+			"winner": "France",
+			"margin": "9 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 12, 2023",
+			"scorecard": "T20I # 2131"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Luxembourg",
+			"winner": "Luxembourg",
+			"margin": "4 wickets",
+			"ground": "Marsa",
+			"matchDate": "Jul 12, 2023",
+			"scorecard": "T20I # 2130"
+		},
+		{
+			"team1": "France",
+			"team2": "Luxembourg",
+			"winner": "France",
+			"margin": "51 runs",
+			"ground": "Marsa",
+			"matchDate": "Jul 11, 2023",
+			"scorecard": "T20I # 2129"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Luxembourg",
+			"winner": "Malta",
+			"margin": "42 runs",
+			"ground": "Marsa",
+			"matchDate": "Jul 11, 2023",
+			"scorecard": "T20I # 2128"
+		},
+		{
+			"team1": "Isle of Man",
+			"team2": "Austria",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Castletown",
+			"matchDate": "Jul 10, 2023",
+			"scorecard": "T20I # 2127"
+		},
+		{
+			"team1": "Malta",
+			"team2": "France",
+			"winner": "Malta",
+			"margin": "4 runs",
+			"ground": "Marsa",
+			"matchDate": "Jul 10, 2023",
+			"scorecard": "T20I # 2126"
+		},
+		{
+			"team1": "Malta",
+			"team2": "France",
+			"winner": "France",
+			"margin": "9 runs",
+			"ground": "Marsa",
+			"matchDate": "Jul 10, 2023",
+			"scorecard": "T20I # 2125"
+		},
+		{
+			"team1": "Isle of Man",
+			"team2": "Austria",
+			"winner": "Isle of Man",
+			"margin": "5 wickets",
+			"ground": "Castletown",
+			"matchDate": "Jul 9, 2023",
+			"scorecard": "T20I # 2124"
+		},
+		{
+			"team1": "Isle of Man",
+			"team2": "Austria",
+			"winner": "Isle of Man",
+			"margin": "6 wickets",
+			"ground": "Castletown",
+			"matchDate": "Jul 9, 2023",
+			"scorecard": "T20I # 2123"
+		},
+		{
+			"team1": "Jersey",
+			"team2": "Guernsey",
+			"winner": "Jersey",
+			"margin": "4 wickets",
+			"ground": "St Martin",
+			"matchDate": "Jul 8, 2023",
+			"scorecard": "T20I # 2122"
+		},
+		{
+			"team1": "Jersey",
+			"team2": "Guernsey",
+			"winner": "Jersey",
+			"margin": "7 wickets",
+			"ground": "St Martin",
+			"matchDate": "Jul 7, 2023",
+			"scorecard": "T20I # 2121"
+		},
+		{
+			"team1": "Austria",
+			"team2": "Germany",
+			"winner": "Germany",
+			"margin": "8 wickets",
+			"ground": "Deventer",
+			"matchDate": "Jun 30, 2023",
+			"scorecard": "T20I # 2120"
+		},
+		{
+			"team1": "Austria",
+			"team2": "Germany",
+			"winner": "Germany",
+			"margin": "6 wickets",
+			"ground": "Deventer",
+			"matchDate": "Jun 29, 2023",
+			"scorecard": "T20I # 2119"
+		},
+		{
+			"team1": "Bulgaria",
+			"team2": "Serbia",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Sofia",
+			"matchDate": "Jun 25, 2023",
+			"scorecard": "T20I # 2118"
+		},
+		{
+			"team1": "Luxembourg",
+			"team2": "Switzerland",
+			"winner": "Switzerland",
+			"margin": "8 wickets",
+			"ground": "Walferdange",
+			"matchDate": "Jun 25, 2023",
+			"scorecard": "T20I # 2117"
+		},
+		{
+			"team1": "Croatia",
+			"team2": "Turkey",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Sofia",
+			"matchDate": "Jun 25, 2023",
+			"scorecard": "T20I # 2116"
+		},
+		{
+			"team1": "Bulgaria",
+			"team2": "Turkey",
+			"winner": "Bulgaria",
+			"margin": "8 wickets",
+			"ground": "Sofia",
+			"matchDate": "Jun 24, 2023",
+			"scorecard": "T20I # 2115"
+		},
+		{
+			"team1": "Croatia",
+			"team2": "Serbia",
+			"winner": "Serbia",
+			"margin": "9 wickets",
+			"ground": "Sofia",
+			"matchDate": "Jun 24, 2023",
+			"scorecard": "T20I # 2114"
+		},
+		{
+			"team1": "Luxembourg",
+			"team2": "Switzerland",
+			"winner": "Luxembourg",
+			"margin": "3 wickets",
+			"ground": "Walferdange",
+			"matchDate": "Jun 24, 2023",
+			"scorecard": "T20I # 2113"
+		},
+		{
+			"team1": "Croatia",
+			"team2": "Turkey",
+			"winner": "Turkey",
+			"margin": "8 wickets",
+			"ground": "Sofia",
+			"matchDate": "Jun 24, 2023",
+			"scorecard": "T20I # 2112"
+		},
+		{
+			"team1": "Bulgaria",
+			"team2": "Serbia",
+			"winner": "Serbia",
+			"margin": "5 wickets",
+			"ground": "Sofia",
+			"matchDate": "Jun 23, 2023",
+			"scorecard": "T20I # 2111"
+		},
+		{
+			"team1": "Bulgaria",
+			"team2": "Croatia",
+			"winner": "Bulgaria",
+			"margin": "9 wickets",
+			"ground": "Sofia",
+			"matchDate": "Jun 23, 2023",
+			"scorecard": "T20I # 2110"
+		},
+		{
+			"team1": "Serbia",
+			"team2": "Turkey",
+			"winner": "Serbia",
+			"margin": "70 runs",
+			"ground": "Sofia",
+			"matchDate": "Jun 23, 2023",
+			"scorecard": "T20I # 2109"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "1 run",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 21, 2023",
+			"scorecard": "T20I # 2108"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "94 runs",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 19, 2023",
+			"scorecard": "T20I # 2107"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Botswana",
+			"winner": "Kenya",
+			"margin": "6 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 19, 2023",
+			"scorecard": "T20I # 2106"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "5 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 18, 2023",
+			"scorecard": "T20I # 2105"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Rwanda",
+			"winner": "Rwanda",
+			"margin": "7 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 18, 2023",
+			"scorecard": "T20I # 2104"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Rwanda",
+			"winner": "Kenya",
+			"margin": "7 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 17, 2023",
+			"scorecard": "T20I # 2103"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "7 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 17, 2023",
+			"scorecard": "T20I # 2102"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Botswana",
+			"winner": "Botswana",
+			"margin": "30 runs",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 15, 2023",
+			"scorecard": "T20I # 2101"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "7 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 15, 2023",
+			"scorecard": "T20I # 2100"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Rwanda",
+			"winner": "Kenya",
+			"margin": "7 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 14, 2023",
+			"scorecard": "T20I # 2099"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "64 runs",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 14, 2023",
+			"scorecard": "T20I # 2098"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "47 runs",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 13, 2023",
+			"scorecard": "T20I # 2097"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Rwanda",
+			"winner": "Rwanda",
+			"margin": "27 runs",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 13, 2023",
+			"scorecard": "T20I # 2096"
+		},
+		{
+			"team1": "Czech Rep.",
+			"team2": "Hungary",
+			"winner": "Czech Rep.",
+			"margin": "3 wickets",
+			"ground": "Vinor",
+			"matchDate": "Jun 11, 2023",
+			"scorecard": "T20I # 2095"
+		},
+		{
+			"team1": "Rwanda",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "8 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 11, 2023",
+			"scorecard": "T20I # 2094"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Belgium",
+			"winner": "Germany",
+			"margin": "8 wickets",
+			"ground": "Krefeld",
+			"matchDate": "Jun 11, 2023",
+			"scorecard": "T20I # 2093"
+		},
+		{
+			"team1": "Czech Rep.",
+			"team2": "Hungary",
+			"winner": "tied",
+			"margin": "-",
+			"ground": "Vinor",
+			"matchDate": "Jun 11, 2023",
+			"scorecard": "T20I # 2092"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Botswana",
+			"winner": "Kenya",
+			"margin": "8 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 11, 2023",
+			"scorecard": "T20I # 2091"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Belgium",
+			"winner": "Germany",
+			"margin": "4 wickets",
+			"ground": "Krefeld",
+			"matchDate": "Jun 10, 2023",
+			"scorecard": "T20I # 2090"
+		},
+		{
+			"team1": "Czech Rep.",
+			"team2": "Hungary",
+			"winner": "Czech Rep.",
+			"margin": "9 runs",
+			"ground": "Vinor",
+			"matchDate": "Jun 10, 2023",
+			"scorecard": "T20I # 2089"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Uganda",
+			"winner": "Kenya",
+			"margin": "88 runs",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 10, 2023",
+			"scorecard": "T20I # 2088"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Belgium",
+			"winner": "Germany",
+			"margin": "5 wickets",
+			"ground": "Krefeld",
+			"matchDate": "Jun 10, 2023",
+			"scorecard": "T20I # 2087"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Rwanda",
+			"winner": "Botswana",
+			"margin": "33 runs",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 10, 2023",
+			"scorecard": "T20I # 2086"
+		},
+		{
+			"team1": "Germany",
+			"team2": "Belgium",
+			"winner": "Germany",
+			"margin": "6 runs",
+			"ground": "Krefeld",
+			"matchDate": "Jun 9, 2023",
+			"scorecard": "T20I # 2085"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Uganda",
+			"winner": "Uganda",
+			"margin": "6 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 9, 2023",
+			"scorecard": "T20I # 2084"
+		},
+		{
+			"team1": "Kenya",
+			"team2": "Rwanda",
+			"winner": "Kenya",
+			"margin": "3 wickets",
+			"ground": "Nairobi (Gym)",
+			"matchDate": "Jun 9, 2023",
+			"scorecard": "T20I # 2083"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Mozambique",
+			"winner": "Botswana",
+			"margin": "7 wickets",
+			"ground": "Benoni",
+			"matchDate": "Jun 1, 2023",
+			"scorecard": "T20I # 2082"
+		},
+		{
+			"team1": "Eswatini",
+			"team2": "Mozambique",
+			"winner": "Mozambique",
+			"margin": "6 wickets",
+			"ground": "Benoni",
+			"matchDate": "May 30, 2023",
+			"scorecard": "T20I # 2081"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Malawi",
+			"winner": "Botswana",
+			"margin": "100 runs",
+			"ground": "Benoni",
+			"matchDate": "May 30, 2023",
+			"scorecard": "T20I # 2080"
+		},
+		{
+			"team1": "Botswana",
+			"team2": "Eswatini",
+			"winner": "Botswana",
+			"margin": "107 runs",
+			"ground": "Benoni",
+			"matchDate": "May 29, 2023",
+			"scorecard": "T20I # 2079"
+		},
+		{
+			"team1": "Malawi",
+			"team2": "Mozambique",
+			"winner": "Malawi",
+			"margin": "9 wickets",
+			"ground": "Benoni",
+			"matchDate": "May 28, 2023",
+			"scorecard": "T20I # 2078"
+		},
+		{
+			"team1": "Eswatini",
+			"team2": "Malawi",
+			"winner": "Malawi",
+			"margin": "53 runs",
+			"ground": "Benoni",
+			"matchDate": "May 27, 2023",
+			"scorecard": "T20I # 2077"
+		},
+		{
+			"team1": "Finland",
+			"team2": "Sweden",
+			"winner": "tied",
+			"margin": "-",
+			"ground": "Glostrup",
+			"matchDate": "May 21, 2023",
+			"scorecard": "T20I # 2076"
+		},
+		{
+			"team1": "Finland",
+			"team2": "Norway",
+			"winner": "Norway",
+			"margin": "7 wickets",
+			"ground": "Glostrup",
+			"matchDate": "May 20, 2023",
+			"scorecard": "T20I # 2075"
+		},
+		{
+			"team1": "Finland",
+			"team2": "Sweden",
+			"winner": "Finland",
+			"margin": "7 runs",
+			"ground": "Brondby",
+			"matchDate": "May 20, 2023",
+			"scorecard": "T20I # 2074"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Finland",
+			"winner": "Denmark",
+			"margin": "8 wickets",
+			"ground": "Brondby",
+			"matchDate": "May 19, 2023",
+			"scorecard": "T20I # 2072"
+		},
+		{
+			"team1": "Norway",
+			"team2": "Sweden",
+			"winner": "Sweden",
+			"margin": "53 runs",
+			"ground": "Glostrup",
+			"matchDate": "May 19, 2023",
+			"scorecard": "T20I # 2073"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Sweden",
+			"winner": "Sweden",
+			"margin": "10 wickets",
+			"ground": "Brondby",
+			"matchDate": "May 19, 2023",
+			"scorecard": "T20I # 2070"
+		},
+		{
+			"team1": "Finland",
+			"team2": "Norway",
+			"winner": "Norway",
+			"margin": "30 runs",
+			"ground": "Glostrup",
+			"matchDate": "May 19, 2023",
+			"scorecard": "T20I # 2071"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Finland",
+			"winner": "Denmark",
+			"margin": "72 runs",
+			"ground": "Brondby",
+			"matchDate": "May 18, 2023",
+			"scorecard": "T20I # 2068"
+		},
+		{
+			"team1": "Norway",
+			"team2": "Sweden",
+			"winner": "Norway",
+			"margin": "75 runs",
+			"ground": "Glostrup",
+			"matchDate": "May 18, 2023",
+			"scorecard": "T20I # 2069"
+		},
+		{
+			"team1": "Denmark",
+			"team2": "Norway",
+			"winner": "Denmark",
+			"margin": "9 wickets",
+			"ground": "Brondby",
+			"matchDate": "May 18, 2023",
+			"scorecard": "T20I # 2067"
+		},
+		{
+			"team1": "Cambodia",
+			"team2": "Malaysia",
+			"winner": "Cambodia",
+			"margin": "12 runs",
+			"ground": "Phnom Penh",
+			"matchDate": "May 11, 2023",
+			"scorecard": "T20I # 2066"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Singapore",
+			"winner": "Singapore",
+			"margin": "15 runs",
+			"ground": "Phnom Penh",
+			"matchDate": "May 11, 2023",
+			"scorecard": "T20I # 2065"
+		},
+		{
+			"team1": "Cambodia",
+			"team2": "Philippines",
+			"winner": "Cambodia",
+			"margin": "8 runs",
+			"ground": "Phnom Penh",
+			"matchDate": "May 10, 2023",
+			"scorecard": "T20I # 2064"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Malta",
+			"winner": "Malta",
+			"margin": "1 run",
+			"ground": "Gibraltar",
+			"matchDate": "May 7, 2023",
+			"scorecard": "T20I # 2063"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Portugal",
+			"winner": "Portugal",
+			"margin": "1 wicket",
+			"ground": "Gibraltar",
+			"matchDate": "May 7, 2023",
+			"scorecard": "T20I # 2062"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Portugal",
+			"winner": "Portugal",
+			"margin": "7 wickets",
+			"ground": "Gibraltar",
+			"matchDate": "May 6, 2023",
+			"scorecard": "T20I # 2061"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Portugal",
+			"winner": "Portugal",
+			"margin": "9 wickets",
+			"ground": "Gibraltar",
+			"matchDate": "May 6, 2023",
+			"scorecard": "T20I # 2060"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Malta",
+			"winner": "Gibraltar",
+			"margin": "80 runs",
+			"ground": "Gibraltar",
+			"matchDate": "May 6, 2023",
+			"scorecard": "T20I # 2059"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Malta",
+			"winner": "Gibraltar",
+			"margin": "43 runs",
+			"ground": "Gibraltar",
+			"matchDate": "May 5, 2023",
+			"scorecard": "T20I # 2058"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Portugal",
+			"winner": "Portugal",
+			"margin": "17 runs",
+			"ground": "Gibraltar",
+			"matchDate": "May 5, 2023",
+			"scorecard": "T20I # 2057"
+		},
+		{
+			"team1": "Gibraltar",
+			"team2": "Portugal",
+			"winner": "Portugal",
+			"margin": "7 wickets",
+			"ground": "Gibraltar",
+			"matchDate": "May 4, 2023",
+			"scorecard": "T20I # 2056"
+		},
+		{
+			"team1": "Malta",
+			"team2": "Portugal",
+			"winner": "Portugal",
+			"margin": "84 runs",
+			"ground": "Gibraltar",
+			"matchDate": "May 4, 2023",
+			"scorecard": "T20I # 2055"
+		},
+		{
+			"team1": "Cambodia",
+			"team2": "Singapore",
+			"winner": "Cambodia",
+			"margin": "15 runs",
+			"ground": "Phnom Penh",
+			"matchDate": "May 4, 2023",
+			"scorecard": "T20I # 2054"
+		},
+		{
+			"team1": "Malaysia",
+			"team2": "Thailand",
+			"winner": "Malaysia",
+			"margin": "8 wickets",
+			"ground": "Phnom Penh",
+			"matchDate": "May 4, 2023",
+			"scorecard": "T20I # 2053"
+		},
+		{
+			"team1": "Philippines",
+			"team2": "Singapore",
+			"winner": "Singapore",
+			"margin": "87 runs",
+			"ground": "Phnom Penh",
+			"matchDate": "May 3, 2023",
+			"scorecard": "T20I # 2052"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Malaysia",
+			"winner": "Malaysia",
+			"margin": "94 runs",
+			"ground": "Phnom Penh",
+			"matchDate": "May 2, 2023",
+			"scorecard": "T20I # 2051"
+		},
+		{
+			"team1": "Indonesia",
+			"team2": "Thailand",
+			"winner": "Indonesia",
+			"margin": "32 runs",
+			"ground": "Phnom Penh",
+			"matchDate": "May 1, 2023",
+			"scorecard": "T20I # 2050"
+		},
+		{
+			"team1": "Pakistan",
+			"team2": "New Zealand",
+			"winner": "New Zealand",
+			"margin": "6 wickets",
+			"ground": "Rawalpindi",
+			"matchDate": "Apr 24, 2023",
+			"scorecard": "T20I # 2049"
+		},
+		{
+			"team1": "Pakistan",
+			"team2": "New Zealand",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Rawalpindi",
+			"matchDate": "Apr 20, 2023",
+			"scorecard": "T20I # 2048"
+		},
+		{
+			"team1": "Pakistan",
+			"team2": "New Zealand",
+			"winner": "New Zealand",
+			"margin": "4 runs",
+			"ground": "Lahore",
+			"matchDate": "Apr 17, 2023",
+			"scorecard": "T20I # 2047"
+		},
+		{
+			"team1": "Pakistan",
+			"team2": "New Zealand",
+			"winner": "Pakistan",
+			"margin": "38 runs",
+			"ground": "Lahore",
+			"matchDate": "Apr 15, 2023",
+			"scorecard": "T20I # 2046"
+		},
+		{
+			"team1": "Pakistan",
+			"team2": "New Zealand",
+			"winner": "Pakistan",
+			"margin": "88 runs",
+			"ground": "Lahore",
+			"matchDate": "Apr 14, 2023",
+			"scorecard": "T20I # 2045"
+		},
+		{
+			"team1": "Portugal",
+			"team2": "Gibraltar",
+			"winner": "Portugal",
+			"margin": "5 wickets",
+			"ground": "Albergaria",
+			"matchDate": "Apr 11, 2023",
+			"scorecard": "T20I # 2044"
+		},
+		{
+			"team1": "Portugal",
+			"team2": "Gibraltar",
+			"winner": "Portugal",
+			"margin": "5 wickets",
+			"ground": "Albergaria",
+			"matchDate": "Apr 11, 2023",
+			"scorecard": "T20I # 2043"
+		},
+		{
+			"team1": "Portugal",
+			"team2": "Gibraltar",
+			"winner": "Portugal",
+			"margin": "124 runs",
+			"ground": "Albergaria",
+			"matchDate": "Apr 10, 2023",
+			"scorecard": "T20I # 2042"
+		},
+		{
+			"team1": "New Zealand",
+			"team2": "Sri Lanka",
+			"winner": "New Zealand",
+			"margin": "4 wickets",
+			"ground": "Queenstown",
+			"matchDate": "Apr 8, 2023",
+			"scorecard": "T20I # 2041"
+		},
+		{
+			"team1": "New Zealand",
+			"team2": "Sri Lanka",
+			"winner": "New Zealand",
+			"margin": "9 wickets",
+			"ground": "Dunedin",
+			"matchDate": "Apr 5, 2023",
+			"scorecard": "T20I # 2040"
+		},
+		{
+			"team1": "New Zealand",
+			"team2": "Sri Lanka",
+			"winner": "tied",
+			"margin": "-",
+			"ground": "Auckland",
+			"matchDate": "Apr 2, 2023",
+			"scorecard": "T20I # 2039"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "Ireland",
+			"winner": "Ireland",
+			"margin": "7 wickets",
+			"ground": "Chattogram",
+			"matchDate": "Mar 31, 2023",
+			"scorecard": "T20I # 2038"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "Ireland",
+			"winner": "Bangladesh",
+			"margin": "77 runs",
+			"ground": "Chattogram",
+			"matchDate": "Mar 29, 2023",
+			"scorecard": "T20I # 2037"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "West Indies",
+			"winner": "West Indies",
+			"margin": "7 runs",
+			"ground": "Johannesburg",
+			"matchDate": "Mar 28, 2023",
+			"scorecard": "T20I # 2036"
+		},
+		{
+			"team1": "Afghanistan",
+			"team2": "Pakistan",
+			"winner": "Pakistan",
+			"margin": "66 runs",
+			"ground": "Sharjah",
+			"matchDate": "Mar 27, 2023",
+			"scorecard": "T20I # 2035"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "Ireland",
+			"winner": "Bangladesh",
+			"margin": "22 runs",
+			"ground": "Chattogram",
+			"matchDate": "Mar 27, 2023",
+			"scorecard": "T20I # 2034"
+		},
+		{
+			"team1": "Afghanistan",
+			"team2": "Pakistan",
+			"winner": "Afghanistan",
+			"margin": "7 wickets",
+			"ground": "Sharjah",
+			"matchDate": "Mar 26, 2023",
+			"scorecard": "T20I # 2033"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "West Indies",
+			"winner": "South Africa",
+			"margin": "6 wickets",
+			"ground": "Centurion",
+			"matchDate": "Mar 26, 2023",
+			"scorecard": "T20I # 2032"
+		},
+		{
+			"team1": "South Africa",
+			"team2": "West Indies",
+			"winner": "West Indies",
+			"margin": "3 wickets",
+			"ground": "Centurion",
+			"matchDate": "Mar 25, 2023",
+			"scorecard": "T20I # 2031"
+		},
+		{
+			"team1": "Afghanistan",
+			"team2": "Pakistan",
+			"winner": "Afghanistan",
+			"margin": "6 wickets",
+			"ground": "Sharjah",
+			"matchDate": "Mar 24, 2023",
+			"scorecard": "T20I # 2030"
+		},
+		{
+			"team1": "Fiji",
+			"team2": "Samoa",
+			"winner": "Fiji",
+			"margin": "22 runs",
+			"ground": "Suva",
+			"matchDate": "Mar 18, 2023",
+			"scorecard": "T20I # 2029"
+		},
+		{
+			"team1": "Fiji",
+			"team2": "Vanuatu",
+			"winner": "Vanuatu",
+			"margin": "26 runs",
+			"ground": "Suva",
+			"matchDate": "Mar 17, 2023",
+			"scorecard": "T20I # 2028"
+		},
+		{
+			"team1": "Fiji",
+			"team2": "Vanuatu",
+			"winner": "Vanuatu",
+			"margin": "102 runs",
+			"ground": "Suva",
+			"matchDate": "Mar 16, 2023",
+			"scorecard": "T20I # 2027"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "England",
+			"winner": "Bangladesh",
+			"margin": "16 runs",
+			"ground": "Mirpur",
+			"matchDate": "Mar 14, 2023",
+			"scorecard": "T20I # 2026"
+		},
+		{
+			"team1": "Fiji",
+			"team2": "Samoa",
+			"winner": "Fiji",
+			"margin": "66 runs",
+			"ground": "Suva",
+			"matchDate": "Mar 14, 2023",
+			"scorecard": "T20I # 2025"
+		},
+		{
+			"team1": "Samoa",
+			"team2": "Vanuatu",
+			"winner": "Vanuatu",
+			"margin": "17 runs",
+			"ground": "Suva",
+			"matchDate": "Mar 13, 2023",
+			"scorecard": "T20I # 2024"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "England",
+			"winner": "Bangladesh",
+			"margin": "4 wickets",
+			"ground": "Mirpur",
+			"matchDate": "Mar 12, 2023",
+			"scorecard": "T20I # 2023"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "Malaysia",
+			"winner": "Hong Kong",
+			"margin": "39 runs",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 12, 2023",
+			"scorecard": "T20I # 2022"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Kuwait",
+			"winner": "Kuwait",
+			"margin": "6 wickets",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 12, 2023",
+			"scorecard": "T20I # 2021"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "Malaysia",
+			"winner": "Hong Kong",
+			"margin": "4 wickets",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 11, 2023",
+			"scorecard": "T20I # 2020"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Kuwait",
+			"winner": "Bahrain",
+			"margin": "4 wickets",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 11, 2023",
+			"scorecard": "T20I # 2019"
+		},
+		{
+			"team1": "Bangladesh",
+			"team2": "England",
+			"winner": "Bangladesh",
+			"margin": "6 wickets",
+			"ground": "Chattogram",
+			"matchDate": "Mar 9, 2023",
+			"scorecard": "T20I # 2018"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "Kuwait",
+			"winner": "Hong Kong",
+			"margin": "11 runs",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 9, 2023",
+			"scorecard": "T20I # 2017"
+		},
+		{
+			"team1": "Bahrain",
+			"team2": "Malaysia",
+			"winner": "Malaysia",
+			"margin": "53 runs",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 9, 2023",
+			"scorecard": "T20I # 2016"
+		},
+		{
+			"team1": "Hong Kong",
+			"team2": "Bahrain",
+			"winner": "Hong Kong",
+			"margin": "15 runs",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 8, 2023",
+			"scorecard": "T20I # 2015"
+		},
+		{
+			"team1": "Kuwait",
+			"team2": "Malaysia",
+			"winner": "Malaysia",
+			"margin": "3 wickets",
+			"ground": "Mong Kok",
+			"matchDate": "Mar 8, 2023",
+			"scorecard": "T20I # 2014"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Cayman Is",
+			"winner": "Cayman Is",
+			"margin": "3 wickets",
+			"ground": "Buenos Aires",
+			"matchDate": "Mar 4, 2023",
+			"scorecard": "T20I # 2013"
+		},
+		{
+			"team1": "Bahamas",
+			"team2": "Bermuda",
+			"winner": "Bermuda",
+			"margin": "9 wickets",
+			"ground": "Buenos Aires",
+			"matchDate": "Mar 4, 2023",
+			"scorecard": "T20I # 2012"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Bahamas",
+			"winner": "Argentina",
+			"margin": "43 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Mar 2, 2023",
+			"scorecard": "T20I # 2011"
+		},
+		{
+			"team1": "Cayman Is",
+			"team2": "Panama",
+			"winner": "Cayman Is",
+			"margin": "12 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Mar 2, 2023",
+			"scorecard": "T20I # 2010"
+		},
+		{
+			"team1": "Bermuda",
+			"team2": "Panama",
+			"winner": "Bermuda",
+			"margin": "60 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 28, 2023",
+			"scorecard": "T20I # 2009"
+		},
+		{
+			"team1": "Bahamas",
+			"team2": "Cayman Is",
+			"winner": "Cayman Is",
+			"margin": "31 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 28, 2023",
+			"scorecard": "T20I # 2008"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Bermuda",
+			"winner": "Bermuda",
+			"margin": "110 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 26, 2023",
+			"scorecard": "T20I # 2007"
+		},
+		{
+			"team1": "Bahamas",
+			"team2": "Panama",
+			"winner": "Bahamas",
+			"margin": "4 wickets",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 26, 2023",
+			"scorecard": "T20I # 2006"
+		},
+		{
+			"team1": "Spain",
+			"team2": "Isle of Man",
+			"winner": "Spain",
+			"margin": "10 wickets",
+			"ground": "Cartagena",
+			"matchDate": "Feb 26, 2023",
+			"scorecard": "T20I # 2005"
+		},
+		{
+			"team1": "Spain",
+			"team2": "Isle of Man",
+			"winner": "Spain",
+			"margin": "7 wickets",
+			"ground": "Cartagena",
+			"matchDate": "Feb 26, 2023",
+			"scorecard": "T20I # 2004"
+		},
+		{
+			"team1": "Bermuda",
+			"team2": "Cayman Is",
+			"winner": "Bermuda",
+			"margin": "96 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 25, 2023",
+			"scorecard": "T20I # 2003"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Panama",
+			"winner": "Panama",
+			"margin": "53 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 25, 2023",
+			"scorecard": "T20I # 2002"
+		},
+		{
+			"team1": "Spain",
+			"team2": "Isle of Man",
+			"winner": "Spain",
+			"margin": "6 wickets",
+			"ground": "Cartagena",
+			"matchDate": "Feb 25, 2023",
+			"scorecard": "T20I # 2001"
+		},
+		{
+			"team1": "Spain",
+			"team2": "Isle of Man",
+			"winner": "Spain",
+			"margin": "8 wickets",
+			"ground": "Cartagena",
+			"matchDate": "Feb 25, 2023",
+			"scorecard": "T20I # 2000"
+		},
+		{
+			"team1": "Spain",
+			"team2": "Isle of Man",
+			"winner": "no result",
+			"margin": "-",
+			"ground": "Cartagena",
+			"matchDate": "Feb 24, 2023",
+			"scorecard": "T20I # 1999"
+		},
+		{
+			"team1": "Spain",
+			"team2": "Isle of Man",
+			"winner": "Spain",
+			"margin": "81 runs",
+			"ground": "Cartagena",
+			"matchDate": "Feb 24, 2023",
+			"scorecard": "T20I # 1998"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Bermuda",
+			"winner": "Bermuda",
+			"margin": "107 runs",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 22, 2023",
+			"scorecard": "T20I # 1997"
+		},
+		{
+			"team1": "Argentina",
+			"team2": "Bermuda",
+			"winner": "Bermuda",
+			"margin": "6 wickets",
+			"ground": "Buenos Aires",
+			"matchDate": "Feb 21, 2023",
+			"scorecard": "T20I # 1996"
+		},
+		{
+			"team1": "U.A.E.",
+			"team2": "Afghanistan",
+			"winner": "Afghanistan",
+			"margin": "6 wickets",
+			"ground": "Abu Dhabi",
+			"matchDate": "Feb 19, 2023",
+			"scorecard": "T20I # 1995"
+		},
+		{
+			"team1": "U.A.E.",
+			"team2": "Afghanistan",
+			"winner": "U.A.E.",
+			"margin": "9 wickets",
+			"ground": "Abu Dhabi",
+			"matchDate": "Feb 18, 2023",
+			"scorecard": "T20I # 1994"
+		},
+		{
+			"team1": "U.A.E.",
+			"team2": "Afghanistan",
+			"winner": "Afghanistan",
+			"margin": "5 wickets",
+			"ground": "Abu Dhabi",
+			"matchDate": "Feb 16, 2023",
+			"scorecard": "T20I # 1993"
+		},
+		{
+			"team1": "India",
+			"team2": "New Zealand",
+			"winner": "India",
+			"margin": "168 runs",
+			"ground": "Ahmedabad",
+			"matchDate": "Feb 1, 2023",
+			"scorecard": "T20I # 1992"
+		},
+		{
+			"team1": "India",
+			"team2": "New Zealand",
+			"winner": "India",
+			"margin": "6 wickets",
+			"ground": "Lucknow",
+			"matchDate": "Jan 29, 2023",
+			"scorecard": "T20I # 1991"
+		},
+		{
+			"team1": "India",
+			"team2": "New Zealand",
+			"winner": "New Zealand",
+			"margin": "21 runs",
+			"ground": "Ranchi",
+			"matchDate": "Jan 27, 2023",
+			"scorecard": "T20I # 1990"
+		},
+		{
+			"team1": "Zimbabwe",
+			"team2": "Ireland",
+			"winner": "Zimbabwe",
+			"margin": "4 wickets",
+			"ground": "Harare",
+			"matchDate": "Jan 15, 2023",
+			"scorecard": "T20I # 1989"
+		},
+		{
+			"team1": "Zimbabwe",
+			"team2": "Ireland",
+			"winner": "Ireland",
+			"margin": "6 wickets",
+			"ground": "Harare",
+			"matchDate": "Jan 14, 2023",
+			"scorecard": "T20I # 1988"
+		},
+		{
+			"team1": "Zimbabwe",
+			"team2": "Ireland",
+			"winner": "Zimbabwe",
+			"margin": "5 wickets",
+			"ground": "Harare",
+			"matchDate": "Jan 12, 2023",
+			"scorecard": "T20I # 1987"
+		},
+		{
+			"team1": "India",
+			"team2": "Sri Lanka",
+			"winner": "India",
+			"margin": "91 runs",
+			"ground": "Rajkot",
+			"matchDate": "Jan 7, 2023",
+			"scorecard": "T20I # 1986"
+		},
+		{
+			"team1": "India",
+			"team2": "Sri Lanka",
+			"winner": "Sri Lanka",
+			"margin": "16 runs",
+			"ground": "Pune",
+			"matchDate": "Jan 5, 2023",
+			"scorecard": "T20I # 1985"
+		},
+		{
+			"team1": "India",
+			"team2": "Sri Lanka",
+			"winner": "India",
+			"margin": "2 runs",
+			"ground": "Wankhede",
+			"matchDate": "Jan 3, 2023",
+			"scorecard": "T20I # 1984"
+		}
+	]
+}
